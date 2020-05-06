@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xaingyu Pan
+title: Liting You
 
 # Username (this should match the folder name)
 authors:
-- PXY
+- YLT
 
 # Is this the primary user of the site?
 superuser: false

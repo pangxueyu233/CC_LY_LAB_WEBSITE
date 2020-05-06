@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xaingyu Pan
+title: Dan Liao
 
 # Username (this should match the folder name)
 authors:
-- PXY
+- LD
 
 # Is this the primary user of the site?
 superuser: false

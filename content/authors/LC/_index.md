@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lin Luo
+title: Chao Liu
 
 # Username (this should match the folder name)
 authors:
-- LLin
+- LC
 
 # Is this the primary user of the site?
 superuser: false

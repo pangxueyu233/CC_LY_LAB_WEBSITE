@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Shujun Li
+title: Baohong Wu
 
 # Username (this should match the folder name)
 authors:
-- LSJ
+- WBH
 
 # Is this the primary user of the site?
 superuser: false

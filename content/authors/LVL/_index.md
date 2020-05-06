@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dan Liao
+title: Lei Lv
 
 # Username (this should match the folder name)
 authors:
-- LD
+- LVL
 
 # Is this the primary user of the site?
 superuser: false
