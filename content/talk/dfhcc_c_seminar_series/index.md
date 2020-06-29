@@ -1,7 +1,7 @@
 ---
-title: MSK Science Spotlight
-event: MSK Science Spotlight links
-event_url: https://www.mskcc.org/research/ski/education-training/sciencespotlight#watch
+title: Dana-Farber/Harvard Cancer Center April 13th seminar
+event: 13th seminar links
+event_url: https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/
 
 # location: Source Themes HQ
 #address:
@@ -11,17 +11,19 @@ event_url: https://www.mskcc.org/research/ski/education-training/sciencespotligh
 #  postcode: '94305'
 #  country: United States
 
-summary: MSK Science Spotlight.
-abstract: "In this time of a global pandemic, relying on science to help us make decisions is more important than ever. Memorial Sloan Kettering is proud to announce MSK Science Spotlight, a twice-weekly scientific seminar series featuring illuminating lectures by today’s leaders in basic and translational biomedical science. Seminars are viewable via livestream every Monday and Wednesday at 4:30 pm EDT. No registration is required. Seminars last 60 minutes, including 15 minutes for Q & A.."
+summary: Dana-Farber/Harvard Cancer Center April 13th seminar.
+abstract: "The DF/HCC Connect:Science seminar series offers remote participation through Zoom (create an account here) to pull our community of faculty, trainees, and lab staff together during this difficult time and it promotes engagement during these next several weeks. We plan to involve speakers who are leaders in cancer biology, immune oncology and other fields from across the world. Thank you to the Leukemia & Lymphoma Society for partnering with DF/HCC in this effort, which will be broadcast to researchers around the globe and recorded for subsequent viewing.
+
+The series will begin on March 23 and be held every Monday, Tuesday, Thursday and Friday. All talks will be begin at 12 PM EST."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-04-6"
-date_end: "2020-05-04"
+date: "2020-03-23"
+date_end: "2020-06-02"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-05-4"
+publishDate: "2020-03-23"
 
 authors: []
 tags: []
